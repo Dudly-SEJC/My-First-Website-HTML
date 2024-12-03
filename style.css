@@ -1,0 +1,133 @@
+@charset "utf-8";
+.page_header {
+    text-align: center;
+    color: #FAF4F2;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    text-shadow: 3px 0 #E47C00;
+    text-decoration: none;
+    background-color: #06531C;
+    border-radius: 15px;
+}
+.body_p {
+    font-size: medium;
+    border-width: medium;
+    text-shadow: 1px -1px;
+    padding-top: 20px;
+}
+.Pages {
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    text-shadow: 1.5px 0px 32485 #32485C;
+    font-size: larger;
+    text-decoration: overline;
+    margin-bottom: 40px;
+}
+.rounded {
+    border-radius: 7px;
+    border: thick outset #874E4C;
+    background-color: #FFFFFF;
+    border-spacing: 2px 2px;
+}
+
+.navigation {
+    text-align: center;
+}
+.circle {
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.trnp {
+    background-color: #BF5805;
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #FFFFFF;
+    text-align: justify;
+    font-size: medium;
+    text-shadow: 1px 0px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    opacity: 1;
+    border-spacing: 1px 1px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+.education {
+    max-width: 199px;
+}
+.aboutme {
+    max-width: 200px;
+}
+.aboutpar {
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-shadow: 0px 0px #FDF7F7;
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    background-color: #06531C;
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    background-position: 0% 0;
+    border-spacing: 0px 100px;
+    max-width: 800px;
+    display: inherit;
+}
+.headsize {
+    font-weight: normal;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: large;
+}
+.mainhead {
+    font-weight: bold;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: x-large;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    background-color: #F7F2F2;
+}
+.exptitle {
+    max-width: 230px;
+}
+.p1 {
+    text-align: right;
+}
+.contact {
+    color: #F7F7F7;
+    margin-bottom: 20px;
+}
+.career {
+    max-width: 275px;
+}
+.experiences {
+    background-color: #19183E;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #F6E3E4;
+    font-weight: normal;
+    font-size: medium;
+    border-radius: 20px;
+}
+.expbody {
+    background-color: #C84419;
+    border-radius: 20px;
+}
+
